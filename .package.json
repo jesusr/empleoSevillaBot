@@ -1,6 +1,6 @@
 {
-  "name": "twitter-bot-bootstrap",
-  "version": "0.2.1",
+  "name": "empleoSevillaBot",
+  "version": "0.0.1",
   "description": "A bootstrap for a twitter bot!",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spences10/twitter-bot-bootstrap.git"
+    "url": "git+https://github.com/jesusr/empleoSevillaBot"
   },
   "keywords": [
     "twitter",
