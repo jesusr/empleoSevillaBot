@@ -44,17 +44,7 @@
     "url": "https://github.com/spences10/twitter-bot-bootstrap/issues"
   },
   "homepage": "https://github.com/spences10/twitter-bot-bootstrap#readme",
-  "snyk": true,
-  "contributors": [
-    "Martius (https://github.com/martiuslim)",
-    "Snyk bot (https://github.com/snyk-bot)",
-    "Joshua Vaage (https://github.com/whaleen)",
-    "Sergio Ruiz (https://github.com/serginator)",
-    "Scott Spence (https://github.com/spences10)",
-    "Will Hurley (https://github.com/wjhurley)",
-    "Millan Sanchez (https://github.com/masdc)",
-    "Paul Abrams (https://github.com/pabrams)",
-    "Jade Thornton (https://github.com/Raindeer44)",
-    "Nikki L.R. (https://github.com/nikkilr88)"
-  ]
+  "eslintConfig": {
+    "esversion": 6
+  }
 }
